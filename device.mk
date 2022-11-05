@@ -29,6 +29,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libpiex_shim
 
+# Dolby Support
+TARGET_USES_MIUI_DOLBY := true
+
 # Kernel
 TARGET_KERNEL_DIR ?= device/xiaomi/alioth-kernel
 LOCAL_KERNEL := $(TARGET_KERNEL_DIR)/Image
