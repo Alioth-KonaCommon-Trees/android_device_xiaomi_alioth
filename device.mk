@@ -32,6 +32,10 @@ PRODUCT_PACKAGES += \
 # Dolby Support
 TARGET_USES_MIUI_DOLBY := true
 
+# Dolby Config File
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/dolby/config/dax-default.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dolby/dax-default.xml
+
 # Kernel
 TARGET_KERNEL_DIR ?= device/xiaomi/alioth-kernel
 LOCAL_KERNEL := $(TARGET_KERNEL_DIR)/Image
