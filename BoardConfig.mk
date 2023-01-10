@@ -22,7 +22,9 @@ TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):init_xiaomi_alioth
 TARGET_RECOVERY_DEVICE_MODULES := init_xiaomi_alioth
 
 # Kernel
-TARGET_KERNEL_CONFIG += vendor/xiaomi/alioth.config
+TARGET_NO_KERNEL := false
+BOARD_PREBUILT_DTBIMAGE_DIR := $(TARGET_KERNEL_DIR)
+BOARD_PREBUILT_DTBOIMAGE := $(BOARD_PREBUILT_DTBIMAGE_DIR)/dtbo.img
 
 # OTA assert
 TARGET_OTA_ASSERT_DEVICE := alioth,aliothin
