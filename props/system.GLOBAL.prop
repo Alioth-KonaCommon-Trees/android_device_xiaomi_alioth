@@ -1,0 +1,17 @@
+#
+# CN variant specific props
+#
+ro.boot.product.hardware.sku=nfc
+ro.build.product=alioth
+ro.product.brand=POCO
+ro.product.board=alioth
+ro.product.device=alioth
+ro.product.marketname=POCO F3
+ro.product.model=M2012K11AG
+ro.product.name=alioth
+ro.product.system.device=alioth
+ro.product.system.name=alioth
+ro.product.system.brand=POCO
+ro.product.system.marketname=POCO F3
+ro.product.system.model=M2012K11AG
+ro.system.build.fingerprint=POCO/alioth_global/alioth:12/SKQ1.211006.001/V13.0.6.0.SKHMIXM:user/release-keys

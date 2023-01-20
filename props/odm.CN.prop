@@ -1,0 +1,9 @@
+#
+# CN variant specific props
+#
+ro.product.oem.device=alioth
+ro.product.oem.brand=Redmi
+ro.product.oem.marketname=Redmi K40
+ro.product.oem.model=M2012K11AC
+ro.product.oem.name=alioth
+ro.oem.build.fingerprint=Redmi/alioth/alioth:12/SKQ1.211006.001/V13.0.9.0.SKHCNXM:user/release-keys

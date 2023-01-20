@@ -1,0 +1,9 @@
+#
+# INDIA variant specific props
+#
+ro.product.oem.device=aliothin
+ro.product.oem.brand=Mi
+ro.product.oem.marketname=Mi 11X
+ro.product.oem.model=M2012K11AI
+ro.product.oem.name=aliothin
+ro.oem.build.fingerprint=Mi/aliothin/aliothin:12/SKQ1.211006.001/V13.0.9.0.SKHINXM:user/release-keys

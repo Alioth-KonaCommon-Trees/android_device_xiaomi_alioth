@@ -1,0 +1,21 @@
+#
+# CN variant specific props
+#
+ro.boot.product.hardware.sku=nfc
+ro.build.product=alioth
+ro.product.brand=Redmi
+ro.product.board=alioth
+ro.product.marketname=Redmi K40
+ro.product.device=alioth
+ro.product.model=M2012K11AC
+ro.product.name=alioth
+ro.product.vendor.brand=Redmi
+ro.product.vendor.device=alioth
+ro.product.vendor.model=M2012K11AC
+ro.product.vendor.name=alioth
+ro.product.bootimage.device=alioth
+ro.product.bootimage.name=alioth
+ro.product.bootimage.brand=Redmi
+ro.product.bootimage.marketname=Redmi K40
+ro.product.bootimage.model=M2012K11AC
+ro.vendor.build.fingerprint=Redmi/alioth/alioth:12/SKQ1.211006.001/V13.0.9.0.SKHCNXM:user/release-keys

@@ -1,0 +1,9 @@
+#
+# CN variant specific props
+#
+ro.product.system_ext.device=alioth
+ro.product.system_ext.brand=POCO
+ro.product.system_ext.marketname=POCO F3
+ro.product.system_ext.model=M2012K11AG
+ro.product.system_ext.name=alioth
+ro.system_ext.build.fingerprint=POCO/alioth_global/alioth:12/SKQ1.211006.001/V13.0.6.0.SKHMIXM:user/release-keys

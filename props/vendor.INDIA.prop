@@ -1,0 +1,20 @@
+#
+# INDIA variant specific props
+#
+ro.build.product=aliothin
+ro.product.brand=Xiaomi
+ro.product.board=aliothin
+ro.product.marketname=Mi 11X
+ro.product.device=aliothin
+ro.product.model=M2012K11AI
+ro.product.name=aliothin
+ro.product.vendor.brand=Xiaomi
+ro.product.vendor.device=aliothin
+ro.product.vendor.model=M2012K11AI
+ro.product.vendor.name=aliothin
+ro.product.bootimage.device=aliothin
+ro.product.bootimage.name=aliothin
+ro.product.bootimage.brand=Xiaomi
+ro.product.bootimage.marketname=Mi 11X
+ro.product.bootimage.model=M2012K11AI
+ro.vendor.build.fingerprint=Mi/aliothin/aliothin:12/SKQ1.211006.001/V13.0.9.0.SKHINXM:user/release-keys
