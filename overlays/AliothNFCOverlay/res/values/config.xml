@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2017, The Android Open Source Project
+    Copyright (C) 2023 StatiXOS
+    SPDX-License-Identifer: Apache-2.0
+-->
+
+<!-- These resources are around just to allow their values to be customized
+     for different hardware and product builds. -->
+<resources>
+  <string-array name="config_skuSupportsSecureNfc" translatable="false">
+    <item>pro</item>
+  </string-array>
+</resources>
