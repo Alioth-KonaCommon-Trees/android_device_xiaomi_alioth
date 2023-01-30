@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+    Copyright (C) 2023 StatiXOS
+    SPDX-License-Identifer: Apache-2.0
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" 
+    package="com.android.pocof3.providers.settings.overlay">
+    <application android:hasCode="false"/>
+    <overlay
+        android:isStatic="true"
+        android:priority="200"
+        android:requiredSystemPropertyName="ro.boot.hwc"
+        android:requiredSystemPropertyValue="GLOBAL"
+        android:targetPackage="com.android.providers.settings"/>
+</manifest>
