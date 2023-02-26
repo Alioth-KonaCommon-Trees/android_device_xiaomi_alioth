@@ -39,3 +39,6 @@ vendor.display.defer_fps_frame_count=2
 
 # Variant specific props
 import /vendor/vendor.${ro.boot.hwc}.prop
+
+# TouchFeature
+ro.vendor.touchfeature.type=43
